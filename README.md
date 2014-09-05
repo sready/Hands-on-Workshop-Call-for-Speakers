@@ -1,8 +1,10 @@
 DevZone Breakout Hands-on Workshops
 ===================================
-This year in the DevZone we are doing a solution based workshop program similar to hands-on training (aka HOTs) but with a broader scope for the content. There will be 4 workshop tracks tailored for makers of all skill sets to gain relevant app development skills at Dreamforce. These workshops will be 2.5 hours long (same as the HOTs) and consist of instructor lead sections followed by hands-on exercises. There will be one instructor per course, staffers in each room to help facilitate questions during the hands-on exercises, and the potential to seat about 100 students per workshop. All of the course material and demos will be provided, but the instructor can add their own flavor and personal experience to each workshop to make it their own.
+This year in the DevZone we are doing a solution based workshop program similar to hands-on training (aka HOTs) but with a broader scope for the content. There will be 4 workshop tracks tailored for makers of all skill sets to gain relevant app development skills at Dreamforce. 
 
-#Track Titles and Abstracts#
+<br><br>These workshops will be 2.5 hours long (same as the HOTs) and consist of instructor lead sections followed by hands-on exercises. There will be one instructor per course, staffers in each room to help facilitate questions during the hands-on exercises, and the potential to seat about 100 students per workshop. All of the course material and demos will be provided, but the instructor can add their own flavor and personal experience to each workshop to make it their own.
+
+#Tracks#
 The 4 tracks cycling throughout Dreamforce will be:
 #### Introduction to Point-And-Click App Building 
 
@@ -31,6 +33,6 @@ The goal of this workshop is to get more developers hands-on with app developmen
 Are you interested in leading a workshop building foundational skills in core areas of app development? Do any of these tracks sound like the a topic you are passionate about? Are you a charasmatic public speaker with the ability to mentor, teach, and breakdown processes in a succinct and straightforward way? If you are up for the challenge and interseted in the opportunity to help set a foundation for success in the developer community, please throw your name in the hat for the track(s) you'd be most interested in presenting.
 
 #Guidelines#
-* Submit your name in this [spreadsheet](https://docs.google.com/a/salesforce.com/spreadsheets/d/1bKFhIXPS70zuuDEttnpvlAr1exRD4txw1A2INdKqhUQ/edit#gid=0) ASAP. I will be selecting names early next week, so if you are interested please put your name in as soon as you can! 
+* Submit your name in this [spreadsheet](https://docs.google.com/a/salesforce.com/spreadsheets/d/1bKFhIXPS70zuuDEttnpvlAr1exRD4txw1A2INdKqhUQ/edit#gid=0) ASAP. I will be selecting names early next week!
 * Outline in the spreadsheet which tracks you would not only be comfortable presenting but also be passionate about presenting. You should be an expert in the area you are opting to present so as to be able to delivery with clarify, confidence, and context.
 * If you are speaking at other sessions, please specify in the scheduling column what time(s) those sessions are. In addition, if you are arriving late/leaving early, please specify that unavailability in the scheduling column as well.
