@@ -39,4 +39,4 @@ Are you interested in leading a workshop building foundational skills in core ar
 #Guidelines#
 * __Submit your name in this [spreadsheet](https://docs.google.com/a/salesforce.com/spreadsheets/d/1pB6mvlxMnV7vAgo-3GsDxJBlAmu4_xbs-k-25kvFsZc/edit#gid=0) ASAP.__ I will be selecting names early next week!
 * Outline in the spreadsheet which tracks you would not only be comfortable presenting but also be passionate about presenting. You should be an expert in the area you are opting to present so as to be able to deliver with clarity, confidence, and context.
-* If you are speaking at other sessions, please specify in the scheduling column what time(s) those sessions are. In addition, if you are arriving late/leaving early, please specify that unavailability in the scheduling column as well.
+* If you are speaking at other sessions, please specify in the scheduling column what time(s) those sessions are. In addition, if you are arriving late/leaving early, please specify that in the scheduling column as well.
