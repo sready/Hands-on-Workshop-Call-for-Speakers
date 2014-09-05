@@ -25,7 +25,7 @@ For these workshops, we will provide you with content to run the workshop. What 
 * A Powerpoint presentation correlating to the curriculum and hands-on material
 * A workbook (digital and hardcopy) with exercises for the students to go through
 
-These content materials are not rigid. I would encourage you (if you want to lead a workshop) to use personal stories of your own career path, problems you've ran into on the job, tips & tricks you wish someone shared with you, etc to make this presentation your own. In addition, if you think you have cool (yet simple) demos that would drive a point home moreso than the demos provided, I would love to see it. <br><br>
+These content materials are not rigid. I would encourage you (if you want to lead a workshop) to use personal stories of your own career path, problems you've ran into on the job, tips & tricks you wish someone shared with you, etc to make this presentation your own. In addition, if you think you have cool (yet simple) demos that would drive a point home moreso than the demos provided, I would love to see it.
 
 The goal of this workshop is to get more developers hands-on with app development at Dreamforce, feel competent enough when they go home to dig in where they are most interested, and leave with both a sense of understanding and imagination as to what they could potentially do on the Salesforce1 platform for their company.
 
