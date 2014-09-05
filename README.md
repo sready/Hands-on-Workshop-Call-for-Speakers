@@ -2,7 +2,7 @@ DevZone Breakout Hands-on Workshops
 ===================================
 This year in the DevZone we are doing a solution based workshop program similar to hands-on training (aka HOTs) but with a broader scope for the content. There will be 4 workshop tracks tailored for makers of all skill sets to gain relevant app development skills at Dreamforce. 
 
-These workshops will be 2.5 hours long (same as the HOTs) and consist of instructor lead sections followed by hands-on exercises. There will be one instructor per course, staffers in each room to help facilitate questions during the hands-on exercises, and the potential to seat about 100 students per workshop. All of the course material and demos will be provided, but the instructor can add their own flavor and personal experience to each workshop to make it their own.
+These workshops will be 2.5 hours long (same as the HOTs) and consist of expert lead sections followed by hands-on exercises. There will be one speaker per workshop, staffers in each room to help facilitate questions during the hands-on exercises, and the potential to seat about 100 students per room. All of the course material and demos will be provided, but the speaker can add their own flavor and personal experience to each workshop to make it their own.
 
 #Tracks#
 The 4 tracks cycling throughout Dreamforce will be:
