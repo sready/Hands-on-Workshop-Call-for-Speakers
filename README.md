@@ -33,6 +33,6 @@ The goal of this workshop is to get more developers hands-on with app developmen
 Are you interested in leading a workshop building foundational skills in core areas of app development? Do any of these tracks sound like the a topic you are passionate about? Are you a charasmatic public speaker with the ability to mentor, teach, and breakdown processes in a succinct and straightforward way? If you are up for the challenge and interseted in the opportunity to help set a foundation for success in the developer community, please throw your name in the hat for the track(s) you'd be most interested in presenting.
 
 #Guidelines#
-* Submit your name in this [spreadsheet](https://docs.google.com/a/salesforce.com/spreadsheets/d/1pB6mvlxMnV7vAgo-3GsDxJBlAmu4_xbs-k-25kvFsZc/edit#gid=0) ASAP. I will be selecting names early next week!
+* __Submit your name in this [spreadsheet](https://docs.google.com/a/salesforce.com/spreadsheets/d/1pB6mvlxMnV7vAgo-3GsDxJBlAmu4_xbs-k-25kvFsZc/edit#gid=0) ASAP.__ I will be selecting names early next week!
 * Outline in the spreadsheet which tracks you would not only be comfortable presenting but also be passionate about presenting. You should be an expert in the area you are opting to present so as to be able to delivery with clarify, confidence, and context.
 * If you are speaking at other sessions, please specify in the scheduling column what time(s) those sessions are. In addition, if you are arriving late/leaving early, please specify that unavailability in the scheduling column as well.
